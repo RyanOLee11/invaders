@@ -13,12 +13,12 @@ use std::{
 };
 
 use invaders::{
-    frame::{self, new_frame, Drawable, Frame},
-    invaders::Invaders,
+    ryan_frame::{self as frame, new_frame, Drawable, Frame},
+    ryan_invaders::Invaders,
     level::Level,
-    menu::Menu,
+    ryan_menu::Menu as Menu,
     player::Player,
-    render,
+    ryan_render as render,
     score::Score,
 };
 

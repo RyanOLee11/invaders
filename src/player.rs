@@ -1,7 +1,7 @@
 use crate::{
-    frame::{Drawable, Frame},
-    invaders::Invaders,
-    shot::Shot,
+    ryan_frame::{Drawable, Frame},
+    ryan_invaders::Invaders,
+    ryan_shot::Shot,
     {NUM_COLS, NUM_ROWS},
 };
 use std::time::Duration;

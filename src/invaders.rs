@@ -1,5 +1,5 @@
 use crate::{
-    frame::{Drawable, Frame},
+    ryan_frame::{Drawable, Frame},
     {NUM_COLS, NUM_ROWS},
 };
 use rusty_time::Timer;

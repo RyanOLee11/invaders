@@ -1,4 +1,4 @@
-use crate::frame::{Drawable, Frame};
+use crate::ryan_frame::{Drawable, Frame};
 
 const MAX_LEVEL: u8 = 3;
 

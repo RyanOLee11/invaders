@@ -1,4 +1,4 @@
-use crate::frame::{Drawable, Frame};
+use crate::ryan_frame::{Drawable, Frame};
 use rusty_time::Timer;
 use std::time::Duration;
 
